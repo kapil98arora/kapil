@@ -1,3 +1,6 @@
+//This will create a game operated by keyboard arrow keys and after compilation click on the display area before you start to play.
+//javac RectGame2.java
+//appletviewer RectGame2.java
 //<applet code="RectGame2" width=800 height=600></applet>
 import java.awt.*;
 import java.util.*;
